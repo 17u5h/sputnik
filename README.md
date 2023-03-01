@@ -40,5 +40,4 @@
 
 ![image](https://user-images.githubusercontent.com/102058870/222173376-1a7da1cf-ec9e-4919-9c4e-409aaed1b865.png)
 
-![image](https://user-images.githubusercontent.com/102058870/222172879-8bff22ea-768a-4865-b914-c92cdcb3d7ab.png)
 
