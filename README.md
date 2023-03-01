@@ -17,7 +17,9 @@
 
 Используемые технологии:
   TypeScript, React
+
   Стейт-менеджер: Zustand
+
   UI библиотека: Grommet
 
 Проект представляет собой CRUD интерфейс постов, рабоающий с https://jsonplaceholder.typicode.com/ openApi
