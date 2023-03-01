@@ -15,6 +15,7 @@ export const AdditionalFiltersContainer = styled.div`
   gap: 20px;
   width: 240px;
   height: 400px;
+	margin-top: 100px;
   border-radius: 10px;
   background-color: #fff;
 `
